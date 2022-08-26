@@ -1,0 +1,258 @@
+a:211:{s:11:"back_to_top";s:1:"0";s:16:"blog_post_author";s:1:"0";s:14:"blog_post_date";s:1:"0";s:9:"blogstyle";s:1:"2";s:15:"breadcrumb_caps";s:1:"3";s:15:"breadcrumb_clip";s:1:"1";s:20:"breadcrumb_clip_dash";s:1:"1";s:16:"breadcrumb_style";s:1:"1";s:16:"breadcrumb_title";s:1:"0";s:16:"breadcrumb_trail";s:1:"0";s:16:"cocoon_500px_url";s:0:"";s:17:"cocoon_amazon_url";s:0:"";s:18:"cocoon_behance_url";s:0:"";s:18:"cocoon_bitcoin_url";s:0:"";s:16:"cocoon_copyright";s:112:"Viện Nghiên cứu và Đào tạo Trực tuyến, Trường Đại học Vinh. Powered by Edumy Moodle Theme.";s:15:"cocoon_digg_url";s:0:"";s:19:"cocoon_dribbble_url";s:0:"";s:19:"cocoon_facebook_url";s:42:"https://www.facebook.com/cyberschool.infor";s:17:"cocoon_flickr_url";s:0:"";s:19:"cocoon_forumbee_url";s:0:"";s:21:"cocoon_foursquare_url";s:0:"";s:17:"cocoon_github_url";s:0:"";s:17:"cocoon_gitlab_url";s:0:"";s:17:"cocoon_google_url";s:0:"";s:20:"cocoon_instagram_url";s:0:"";s:18:"cocoon_leanpub_url";s:0:"";s:19:"cocoon_linkedin_url";s:0:"";s:17:"cocoon_medium_url";s:0:"";s:17:"cocoon_meetup_url";s:0:"";s:17:"cocoon_moodle_url";s:0:"";s:20:"cocoon_pinterest_url";s:0:"";s:16:"cocoon_slack_url";s:0:"";s:21:"cocoon_slideshare_url";s:0:"";s:19:"cocoon_snapchat_url";s:0:"";s:21:"cocoon_soundcloud_url";s:0:"";s:19:"cocoon_telegram_url";s:0:"";s:17:"cocoon_trello_url";s:0:"";s:17:"cocoon_tumblr_url";s:0:"";s:17:"cocoon_twitch_url";s:0:"";s:18:"cocoon_twitter_url";s:0:"";s:16:"cocoon_vimeo_url";s:0:"";s:13:"cocoon_vk_url";s:0:"";s:17:"cocoon_wechat_url";s:0:"";s:16:"cocoon_weibo_url";s:0:"";s:17:"cocoon_weixin_url";s:0:"";s:19:"cocoon_whatsapp_url";s:0:"";s:20:"cocoon_wordpress_url";s:0:"";s:15:"cocoon_xing_url";s:0:"";s:18:"cocoon_youtube_url";s:56:"https://www.youtube.com/channel/UCt2ZjOYMoyDoZI6OCAc-XZQ";s:12:"color_accent";s:7:"#fa9627";s:14:"color_accent_2";s:7:"#c75533";s:14:"color_accent_3";s:7:"#192675";s:14:"color_accent_4";s:7:"#f0d078";s:27:"color_footer_style_1_bottom";s:7:"#0a0a0a";s:24:"color_footer_style_1_top";s:7:"#151515";s:27:"color_footer_style_2_bottom";s:7:"#ebeef4";s:24:"color_footer_style_2_top";s:7:"#f9fafc";s:27:"color_footer_style_3_bottom";s:7:"#fafafa";s:27:"color_footer_style_3_middle";s:7:"#ffffff";s:24:"color_footer_style_3_top";s:7:"#f9fafc";s:27:"color_footer_style_5_bottom";s:7:"#072670";s:24:"color_footer_style_5_top";s:7:"#0d2f81";s:24:"color_footer_style_6_all";s:7:"#3f4449";s:27:"color_footer_style_7_bottom";s:7:"#ffffff";s:24:"color_footer_style_7_top";s:7:"#ffffff";s:18:"color_gradient_end";s:7:"#004998";s:20:"color_gradient_start";s:7:"#004998";s:27:"color_header_style_2_bottom";s:7:"#141414";s:24:"color_header_style_2_top";s:4:"#000";s:24:"color_header_style_3_top";s:7:"#051925";s:24:"color_header_style_4_top";s:7:"#3452ff";s:20:"color_header_style_5";s:7:"#ffffff";s:24:"color_header_style_6_top";s:7:"#004998";s:14:"color_parallax";s:7:"#004998";s:13:"color_primary";s:7:"#004998";s:23:"color_primary_alternate";s:7:"#004998";s:15:"color_secondary";s:7:"#ff1053";s:14:"color_tertiary";s:7:"#6c757d";s:15:"course_category";s:1:"0";s:27:"course_content_enroled_only";s:1:"0";s:24:"course_enrolment_payment";s:1:"1";s:19:"course_price_format";s:1:"6";s:14:"course_ratings";s:1:"2";s:19:"course_single_style";s:1:"2";s:17:"course_start_date";s:1:"0";s:23:"coursecat_announcements";s:1:"0";s:20:"coursecat_enrolments";s:1:"0";s:18:"coursecat_modified";s:1:"1";s:16:"coursecat_prices";s:1:"1";s:15:"courseliststyle";s:1:"1";s:21:"coursemainpage_layout";s:1:"0";s:23:"cta_icon_ccn_icon_class";s:18:"flaticon-megaphone";s:8:"cta_link";s:6:"&nbsp;";s:8:"cta_text";s:6:"&nbsp;";s:10:"custom_css";s:1206:"/*THANH-START*/
+/*Thiết lập màu nền khi di chuột đến nút "Thêm nội dung khóa học" trong phần nội dung khóa học để không bị trùng màu chữ*/
+button.section-modchooser-link.btn.btn-link.btn-primary:hover{
+  background-color:rgb(0, 73, 152);
+}
+
+div.tc_content div.course_price{
+	display: none;
+}
+body#page-course-view-remuiformat .remui-format-list #section-0 .section-title a
+{
+ 	color: #6F7074;
+}
+.cs_row_one .cs_instructor .cs_instrct_list li a{
+	color: rgb(255 255 255);
+}
+li.list-inline-item a.mcc_view {
+    visibility: hidden;
+    position: relative;
+}
+li.list-inline-item a.mcc_view:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "MỞ";
+}
+.ccn_mc_content_header_status{
+	display: none;
+}
+.my_course_content_list .mc_content_list .thumb .overlay ul li a{
+ 	line-height: 2;
+}
+.copyright-widget p{
+  	display: none;
+}
+.banner-style-one .slide:before, .banner-style-two .slide:before{
+	background-color: rgb(54 54 54 / 70%);
+}
+/*THANH-END*/
+
+/*SonCao-START*/
+.ccn-menu-item:hover{
+  color: red !important;
+}
+.home-content{
+  display: none !important;
+}
+
+
+/*SonCao-END*/
+";s:20:"custom_css_dashboard";s:4490:"/*THANH-START*/
+/*Hồ sơ MoodleNet*/
+div#fitem_id_moodlenetprofile
+{
+	display: none;
+}
+/*Sở thích*/
+fieldset#id_moodle_interests
+{
+	display: none;
+}
+/*Các tên bổ sung*/
+fieldset#id_moodle_additional_names
+{
+	display: none;
+}
+/*scorm-Cài đặt khả năng tương thích*/
+fieldset#id_compatibilitysettingshdr{
+ 	display: none;
+}
+/*scorm-Hiển thị kết quả học tập*/
+div#fitem_id_displayattemptstatus{
+ 	display: none;
+}
+/*scorm-Hiển thị mục lục ở trang giới thiệu*/
+div#fitem_id_displaycoursestructure{
+ 	display: none;
+}
+fieldset#id_rolerenaming{
+	display: none;
+}
+fieldset#id_display{
+	display: none;
+}
+.copyright-widget p{
+  	display: none;
+}
+/* SCORM-Tần suất tự động cập nhật*/
+#fitem_id_updatefreq.form-group.row.fitem{
+  	display: none;
+}
+/* SCORM-Sinh Viên bỏ qua trang cấu trúc nội dung*/
+#fitem_id_skipview.form-group.row.fitem.advanced.show{
+  	display: none;
+}
+/* SCORM-Kiểm soát trạng thái ghi đè lên điểm*/
+#fitem_id_masteryoverride.form-group.row.fitem{
+  	display: none;
+}
+/* SCORM-thẻ*/
+/* Chung với BAITAP */
+/* BAITAP-Nhận xét dòng*/
+#fitem_id_assignfeedback_comments_commentinline.form-group.row.fitem{
+  	display: none;
+}
+/* BAITAP-Yêu cầu học viên chấp nhận báo cáo bài nộp*/
+#fitem_id_requiresubmissionstatement.form-group.row.fitem{
+  	display: none;
+}
+/* BAITAP-Sử dụng quy trình làm việc đánh dấu*/
+#fitem_id_markingworkflow.form-group.row.fitem{
+  	display: none;
+}
+/* BAITAP-Sử dụng quy trình làm việc đánh dấu*/
+#fitem_id_markingworkflow.form-group.row.fitem{
+  	display: none;
+}
+/* BAITAP-Thẻ*/
+#id_tagshdr.clearfix.collapsible{
+  	display: none;
+}
+/*BAITAP-Cài đặt bài làm nhóm*/
+#id_groupsubmissionsettings.clearfix.collapsible{
+ 	display: none; 
+}
+/* tab menu báo cáo tương tác  */
+.nav-link[title="Báo cáo tương tác"],[title="Interactions report"]{
+  display: none;
+}
+/* tab menu báo cáo mục tiêu  */
+.nav-link[title="Báo cáo mục tiêu"],[title="Objectives report"]{
+  display: none;
+}
+
+/* BC điểm - xem - tab lịch sử điểm */
+.nav-link[title="Lịch sử điểm"],[title="Grade history"]{
+  display: none;
+}
+
+/* BC điểm - xem - tab báo cáo kết quả */
+.nav-link[title="Báo cáo kết quả"],[title="Outcomes report"]{
+  display: none;
+}
+
+/* BC điểm - thang điểm */
+.nav-link[title="Thang điểm"],[title="Scales"]{
+  display: none;
+}
+
+/* BC điểm - các đầu ra 
+.nav-link[title="Các đầu ra"],[title="Outcomes"]{
+  display: none;
+}
+ */
+/* OpenDocument */
+.nav-item .nav-link[title="Bảng tính OpenDocument"],[title="OpenDocument spreadsheet"]{
+  display: none;
+}
+
+/* XML File Tab */
+.nav-item .nav-link[title="Tệp XML"],[title="XML file"]{
+  display: none;
+}
+
+/* Plain text file tab */
+.nav-item .nav-link[title="Tệp Plain text"],[title="Plain text file"]{
+  display: none;
+}
+
+.dropdown-item[title="Các bộ lọc"],[title="Plain text file"]{
+  display: none;
+}
+/*THANH-END*/
+
+/*fieldset#id_additemhdr2{
+  	display: none;
+}
+
+fieldset#id_seb.clearfix.collapsible.collapsed{
+  	display: none;
+}*/
+
+fieldset#id_multitriesheader.clearfix.collapsible{
+  	display: none;
+}
+fieldset#id_combinedfeedbackhdr.clearfix.collapsible{
+  	display: none;
+}
+div#fitem_id_subnet.form-group.row.fitem{
+  	display: none;
+}
+div#fitem_id_delay1.form-group.row.fitem{
+  	display: none;
+}
+div#fitem_id_delay2.form-group.row.fitem{
+  	display: none;
+}
+div#fitem_id_allowofflineattempts.form-group.row.fitem.advanced.show{
+  	display: none;
+}/*
+div#fitem_id_attemptonlast.form-group.row.fitem{
+  	display: none;
+}
+div#fitem_id_showblocks.form-group.row.fitem{
+  	display: none;
+}
+
+/*div.popover-region-header-actions {
+  	display: none;
+}*/
+
+
+
+
+/*LINH-START-- Thêm một File mới*/
+/*Hoàn thành các hoạt động */
+/*fieldset#id_activitycompletionheader.clearfix.collapsible.collapsed{
+  display: none;
+}*/
+
+/*Giao diện*/
+fieldset#id_optionssection.clearfix.collapsible.collapsed.containsadvancedelements{
+  display: none;
+}
+/*Thiết lập hiển thị,ẩn*/
+fieldset#id_modstandardelshdr.clearfix.collapsible.collapsed{
+  display: none;
+}
+/*LINH- END*/
+
+
+/*SON-START*/
+.ccn-menu-item:hover{
+  color: red !important;
+}
+/*SON-END*/
+div.popover-region-header-actions{
+  	display: none;
+}
+
+
+";s:9:"custom_js";s:0:"";s:19:"custom_js_dashboard";s:0:"";s:29:"dark_mode_icon_ccn_icon_class";s:17:"ccn-flaticon-hide";s:25:"dark_mode_icon_visibility";s:1:"0";s:16:"dashboard_header";s:1:"1";s:16:"dashboard_layout";s:1:"1";s:21:"dashboard_left_drawer";s:1:"2";s:23:"dashboard_sticky_drawer";s:1:"0";s:23:"dashboard_sticky_header";s:1:"0";s:33:"dashboard_tablet_1_ccn_icon_class";s:22:"flaticon-speech-bubble";s:24:"dashboard_tablet_1_color";s:7:"#2441e7";s:27:"dashboard_tablet_1_subtitle";s:0:"";s:24:"dashboard_tablet_1_title";s:10:"Tin nhắn";s:22:"dashboard_tablet_1_url";s:0:"";s:29:"dashboard_tablet_1_visibility";s:1:"0";s:33:"dashboard_tablet_2_ccn_icon_class";s:12:"flaticon-cap";s:24:"dashboard_tablet_2_color";s:7:"#ff1053";s:27:"dashboard_tablet_2_subtitle";s:0:"";s:24:"dashboard_tablet_2_title";s:8:"Hồ sơ";s:22:"dashboard_tablet_2_url";s:0:"";s:29:"dashboard_tablet_2_visibility";s:1:"0";s:33:"dashboard_tablet_3_ccn_icon_class";s:17:"flaticon-settings";s:24:"dashboard_tablet_3_color";s:7:"#00a78e";s:27:"dashboard_tablet_3_subtitle";s:0:"";s:24:"dashboard_tablet_3_title";s:11:"Cấu hình";s:22:"dashboard_tablet_3_url";s:0:"";s:29:"dashboard_tablet_3_visibility";s:1:"0";s:33:"dashboard_tablet_4_ccn_icon_class";s:15:"flaticon-rating";s:24:"dashboard_tablet_4_color";s:7:"#ecd06f";s:27:"dashboard_tablet_4_subtitle";s:0:"";s:24:"dashboard_tablet_4_title";s:12:"Điểm số";s:22:"dashboard_tablet_4_url";s:0:"";s:29:"dashboard_tablet_4_visibility";s:1:"0";s:17:"dev_expose_blocks";s:1:"0";s:13:"email_address";s:0:"";s:7:"favicon";s:22:"/logo_50x50 - Copy.png";s:17:"footer_col_1_body";s:1553:"<span style="color:white">
+<i class="fa fa-home" aria-hidden="true"></i> &nbsp;&nbsp; Viện NC & ĐT Trực tuyến <br> Trường Đại học Vinh<br>
+<i class="fa fa-internet-explorer" aria-hidden="true"></i>&nbsp;&nbsp; <a href="http://vinhuni.edu.vn/" target="_blank" style="color: white" onMouseOver="this.style.color='yellow'" onMouseOut="this.style.color='white'"  title="Website trường Đại học Vinh">http://vinhuni.edu.vn/</a><br>
+<i class="fa fa-phone" aria-hidden="true"></i> &nbsp;&nbsp; (0238)3855452<br>
+<i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; <a href="mailto:vienncdttt@vinhuni.edu.vn" style="color: white" onMouseOver="this.style.color='yellow'" onMouseOut="this.style.color='white'"  title="Gửi mail cho Viện nghiên cứu và đào tạo trực tuyến - Trường Đại học Vinh">vienncdttt@vinhuni.edu.vn</a><br>
+&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://goo.gl/maps/wg64xm8Aqx1aSaSU7" target="_blank" style="color: white" onMouseOver="this.style.color='yellow'" onMouseOut="this.style.color='white'" title="Vị trí trên bản đồ trường THPT Nguyễn Du">&nbsp;&nbsp;182 Lê Duẩn - TP Vinh - Nghệ An</a>
+</span>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS1G0GG5GK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS1G0GG5GK');
+</script>";s:18:"footer_col_1_title";s:10:"Liên hệ";s:17:"footer_col_2_body";s:68:"<img src="https://lmspt.vinhuni.edu.vn/pix/news/1.jpg" width="100%">";s:18:"footer_col_2_title";s:6:"&nbsp;";s:17:"footer_col_3_body";s:68:"<img src="https://lmspt.vinhuni.edu.vn/pix/news/2.jpg" width="100%">";s:18:"footer_col_3_title";s:6:"&nbsp;";s:17:"footer_col_4_body";s:68:"<img src="https://lmspt.vinhuni.edu.vn/pix/news/3.jpg" width="100%">";s:18:"footer_col_4_title";s:6:"&nbsp;";s:17:"footer_col_5_body";s:0:"";s:18:"footer_col_5_title";s:0:"";s:11:"footer_menu";s:128:"<div style="color:white" align="center">Viện Nghiên cứu và Đào tạo trực tuyến<br>Trường Đại học Vinh</div>";s:11:"footerlogo1";s:15:"/logo_small.png";s:10:"footertype";s:1:"9";s:9:"gmaps_key";s:0:"";s:12:"header_login";s:1:"0";s:16:"header_main_menu";s:1:"0";s:13:"header_search";s:1:"0";s:17:"headerlogo_mobile";s:22:"/logo_50x50 - Copy.png";s:11:"headerlogo1";s:22:"/logo_50x50 - Copy.png";s:11:"headerlogo2";s:22:"/logo_50x50 - Copy.png";s:11:"headerlogo3";s:22:"/logo_50x50 - Copy.png";s:10:"headertype";s:1:"1";s:10:"heading_bg";s:63:"/—Pngtree—opening season art small fresh_1002196 - Copy.jpg";s:14:"iconset_cocoon";s:1:"1";s:13:"iconset_edumy";s:1:"1";s:19:"iconset_fontawesome";s:1:"1";s:19:"iconset_lineawesome";s:1:"1";s:15:"incourse_layout";s:1:"0";s:12:"lazy_loading";s:1:"0";s:12:"library_list";s:1:"0";s:8:"login_bg";s:21:"/login-background.png";s:12:"login_layout";s:1:"0";s:10:"logo_image";s:1:"0";s:17:"logo_image_footer";s:1:"0";s:17:"logo_image_height";s:0:"";s:24:"logo_image_height_footer";s:2:"80";s:16:"logo_image_width";s:0:"";s:23:"logo_image_width_footer";s:2:"80";s:8:"logo_url";s:0:"";s:8:"logotype";s:1:"0";s:15:"logotype_footer";s:1:"0";s:28:"messages_icon_ccn_icon_class";s:22:"flaticon-speech-bubble";s:24:"messages_icon_visibility";s:1:"0";s:13:"meta_abstract";s:0:"";s:16:"meta_description";s:0:"";s:13:"meta_keywords";s:0:"";s:30:"navigation_icon_ccn_icon_class";s:17:"flaticon-settings";s:26:"navigation_icon_visibility";s:1:"0";s:32:"notification_icon_ccn_icon_class";s:14:"flaticon-alarm";s:28:"notification_icon_visibility";s:1:"0";s:28:"order_receipt_address_line_1";s:0:"";s:28:"order_receipt_address_line_2";s:0:"";s:28:"order_receipt_address_line_3";s:0:"";s:19:"order_receipt_email";s:0:"";s:19:"order_receipt_phone";s:0:"";s:17:"order_receipt_zip";s:0:"";s:22:"page_settings_controls";s:1:"0";s:5:"phone";s:0:"";s:18:"preloader_duration";s:1:"6";s:15:"preloader_image";s:0:"";s:12:"primary_font";s:1:"5";s:21:"profile_icon_username";s:1:"1";s:11:"quiz_layout";s:1:"1";s:14:"secondary_font";s:1:"5";s:19:"singlecourse_blocks";s:1:"1";s:13:"social_target";s:1:"1";s:25:"topics_format_collapsible";s:1:"1";s:15:"upload_font_eot";s:0:"";s:25:"upload_font_secondary_eot";s:0:"";s:25:"upload_font_secondary_svg";s:0:"";s:25:"upload_font_secondary_ttf";s:0:"";s:26:"upload_font_secondary_woff";s:0:"";s:27:"upload_font_secondary_woff2";s:0:"";s:15:"upload_font_svg";s:0:"";s:15:"upload_font_ttf";s:22:"/SVN-Arial Regular.ttf";s:16:"upload_font_woff";s:0:"";s:17:"upload_font_woff2";s:0:"";s:19:"user_profile_layout";s:1:"0";s:7:"version";s:13:"2021072517.59";}

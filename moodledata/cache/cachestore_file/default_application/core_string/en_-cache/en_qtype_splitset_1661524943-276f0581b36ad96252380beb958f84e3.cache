@@ -1,0 +1,11 @@
+a:32:{s:14:"addingsplitset";s:32:"Adding a set splitting question.";s:14:"addmoreanswers";s:11:"Add answers";s:8:"alphanum";s:9:"a,b,c... ";s:11:"alphasupnum";s:9:"A,B,C... ";s:15:"correctansweris";s:28:"The correct answer is: {$a}.";s:15:"editingsplitset";s:33:"Editing a set splitting question.";s:17:"incorrectfeedback";s:17:"Feedback (missed)";s:15:"correctfeedback";s:18:"Feedback (success)";s:24:"partiallycorrectfeedback";s:26:"Feedback (partial success)";s:4:"item";s:12:"Element {no}";s:11:"itemstosort";s:18:"Items to be sorted";s:5:"name1";s:10:"Set 1 name";s:5:"name2";s:10:"Set 2 name";s:5:"name3";s:10:"Set 3 name";s:5:"name4";s:10:"Set 4 name";s:5:"name5";s:10:"Set 5 name";s:9:"numbering";s:15:"Numbering style";s:10:"numericnum";s:9:"1,2,3... ";s:3:"set";s:19:"Correct answer {no}";s:4:"sets";s:14:"Number of sets";s:14:"shuffleanswers";s:20:"Shuffle set elements";s:8:"splitset";s:14:"Set splitting.";s:10:"pluginname";s:14:"Set splitting.";s:17:"pluginnamesummary";s:120:"Presents a list of question sharing the same answer set. The student can answer all provided questions in a single page.";s:15:"pluginname_link";s:22:"question/type/splitset";s:16:"pluginnameadding";s:23:"Adding splitset markers";s:17:"pluginnameediting";s:24:"Editing splitset markers";s:20:"correctfeedback_help";s:38:"Feedback when all answers are complete";s:29:"partiallycorrectfeedback_help";s:39:"Feedback when some answers are complete";s:22:"incorrectfeedback_help";s:36:"Feedback when no answers are correct";s:13:"splitset_help";s:620:"<p>the Split Set question is an easy to configure question that
+    will ask the student to split an input list of propositions
+    into sublists (from 2 up to 4).</p>
+
+<p>The teacher defines how many output set can be used and will
+    give a textual label for each set, such as "true/false",
+    "allowed/forbidden", "consistant/not consistant", "little/medium/high",
+etc.</p>
+<p>Then he will provide the input set. Each input can be entered as a formatted
+paragraph and will be able to use images or any HTML Editor inserts.</p>
+<p>All items must have one unique output and all items are equivalent (no weighting)</p>";s:15:"pluginname_help";s:68:"Edit a serie of question that spread scores upon a serie of outputs.";}
